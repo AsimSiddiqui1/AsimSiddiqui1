@@ -1,33 +1,62 @@
-# asim@security:~$ whoami
+```bash
+┌──(asim㉿security)-[~]
+└─$ whoami
 
-Cybersecurity Student | SOC Enthusiast | VAPT Practitioner | Security Builder
+Asim Siddiqui
 
-## 🔥 Current Focus
+Cybersecurity Student
+SOC Enthusiast
+VAPT Practitioner
+AI Security Builder
+```
 
-- Security Operations (SOC)
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Threat Hunting & Incident Analysis
-- AI-Powered Security Solutions
-- Cloud Security
+## ⚡ Current Mission
 
-## 🚀 Building
+Building practical cybersecurity solutions that automate analysis,
+improve detection capabilities, and strengthen security operations.
 
-- AI SOC Analyst Agent
-- Security Automation Tools
-- Threat Detection Workflows
-- CTF Challenges & Labs
+## 🚀 Active Projects
 
-## 🛠️ Tech Stack
+```bash
+[✓] AI SOC Analyst Agent
+[✓] Security Automation Tools
+[✓] CTF Challenges & Labs
+[✓] Vulnerability Assessment Projects
+```
 
-Python • Linux • Git • SIEM • VAPT • Threat Hunting • AI
+## 🛠 Arsenal
+
+```yaml
+Languages:
+  - Python
+  - Bash
+
+Security:
+  - SOC Operations
+  - VAPT
+  - Threat Hunting
+  - Incident Response
+  - OSINT
+
+Tools:
+  - Linux
+  - Git
+  - Wireshark
+  - Nmap
+  - Burp Suite
+```
 
 ## 📚 Currently Learning
 
-- Advanced SOC Operations
-- Malware Analysis
-- Cloud Security
-- Red Team Methodologies
+```bash
+> Malware Analysis
+> Cloud Security
+> Threat Intelligence
+> Advanced SOC Operations
+```
 
-## 🎯 Goal
+## 🌐 Connect
 
-Building practical cybersecurity solutions that automate analysis, improve detection, and strengthen security operations.
+LinkedIn:
+www.linkedin.com/in/asim-siddiqui-
+```
