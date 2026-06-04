@@ -109,7 +109,7 @@ Custom cybersecurity challenges ranging from beginner to advanced levels.
 ## 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/asim-siddiqui-](http://www.linkedin.com/in/asim-siddiqui-)
-* GitHub: github.com/AsimSiddiqui1
+* GitHub: https://github.com/AsimSiddiqui1
 
 ---
 
