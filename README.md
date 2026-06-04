@@ -1,16 +1,33 @@
-## Hi there 👋
+# asim@security:~$ whoami
 
-<!--
-**AsimSiddiqui1/AsimSiddiqui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student | SOC Enthusiast | VAPT Practitioner | Security Builder
 
-Here are some ideas to get you started:
+## 🔥 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Security Operations (SOC)
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Threat Hunting & Incident Analysis
+- AI-Powered Security Solutions
+- Cloud Security
+
+## 🚀 Building
+
+- AI SOC Analyst Agent
+- Security Automation Tools
+- Threat Detection Workflows
+- CTF Challenges & Labs
+
+## 🛠️ Tech Stack
+
+Python • Linux • Git • SIEM • VAPT • Threat Hunting • AI
+
+## 📚 Currently Learning
+
+- Advanced SOC Operations
+- Malware Analysis
+- Cloud Security
+- Red Team Methodologies
+
+## 🎯 Goal
+
+Building practical cybersecurity solutions that automate analysis, improve detection, and strengthen security operations.
