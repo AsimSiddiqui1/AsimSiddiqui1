@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AsimSiddiqui1/AsimSiddiqui1/main/banner.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/AsimSiddiqui1/AsimSiddiqui1/main/banner.gif" width="70%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Asim Siddiqui</h1>
