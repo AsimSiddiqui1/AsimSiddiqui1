@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsimSiddiqui1/AsimSiddiqui1/main/banner.gif" width="100%">
+</p>
+
 ```bash
 ┌──(asim㉿security)-[~]
 └─$ whoami
